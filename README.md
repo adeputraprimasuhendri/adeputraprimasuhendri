@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Apps
+
+- 🔭 Working as Fullstack Engineer [@Erakomp](https://www.erakomp.co.id/)
+- 📫 Reach me: instagram [@appsworkspace](https://instagram.com/appsworkspace)
 
 <!--
 **adeputraprimasuhendri/adeputraprimasuhendri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
