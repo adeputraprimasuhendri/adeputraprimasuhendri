@@ -1,6 +1,7 @@
 ### Hi, I'm Apps
 
-- 🔭 Working as Fullstack Engineer [@Erakomp](https://www.erakomp.co.id/)
+- ⚡ Web Developer [@Erakomp](https://www.erakomp.co.id/)
+- ⚡ CTO & Co Founder [@kasehatid](https://www.instagram.com/kasehatid/)
 - 📫 Reach me: instagram [@appsworkspace](https://instagram.com/appsworkspace)
 
 <!--
