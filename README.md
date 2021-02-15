@@ -1,8 +1,8 @@
 ### Hi, I'm Apps
 
-[![Linkedin: adeputraprimasuhendri](https://img.shields.io/badge/-adeputraprimasuhendri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adeputraprimasuhendri/)](https://www.linkedin.com/in/adeputraprimasuhendri/)
+[![Linkedin: adeputraprimasuhendri](https://img.shields.io/badge/-Ade Putra Prima Suhendri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adeputraprimasuhendri/)](https://www.linkedin.com/in/adeputraprimasuhendri/)
 
-[![Linkedin: Kasehat](https://img.shields.io/badge/-Kasehat-darkgreen?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/kasehatindonesiateknologi/)](https://www.linkedin.com/company/kasehatindonesiateknologi/)
+[![Linkedin: PT. Kasehat Indonesia Teknologi](https://img.shields.io/badge/-PT. Kasehat Indonesia Teknologi-darkgreen?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/kasehatindonesiateknologi/)](https://www.linkedin.com/company/kasehatindonesiateknologi/)
 
 <!--
 **adeputraprimasuhendri/adeputraprimasuhendri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
