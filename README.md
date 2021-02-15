@@ -1,8 +1,6 @@
 ### Hi, I'm Apps
 
-- ⚡ Web Developer [@Erakomp](https://www.erakomp.co.id/)
-- ⚡ CTO & Co Founder [@kasehatid](https://www.instagram.com/kasehatid/)
-- 📫 Reach me: instagram [@appsworkspace](https://instagram.com/appsworkspace)
+[![Linkedin: adeputraprimasuhendri](https://img.shields.io/badge/-adeputraprimasuhendri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adeputraprimasuhendri/)](https://www.linkedin.com/in/adeputraprimasuhendri/)
 
 <!--
 **adeputraprimasuhendri/adeputraprimasuhendri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
