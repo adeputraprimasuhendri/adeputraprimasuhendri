@@ -1,9 +1,9 @@
 ### Hi, I'm Apps
 
-- My Profile 
+<small>My Profile</small>
 [![Linkedin: adeputraprimasuhendri](https://img.shields.io/badge/-Ade%20Putra%20Prima%20Suhendri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adeputraprimasuhendri/)](https://www.linkedin.com/in/adeputraprimasuhendri/)
 
-- Co-Founder 
+<small>Co-Founder</small>
 [![Linkedin: kasehatindonesiateknologi](https://img.shields.io/badge/-PT.%20Kasehat%20Indonesia%20Teknologi-darkgreen?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/kasehatindonesiateknologi/)](https://www.linkedin.com/company/kasehatindonesiateknologi/)
 
 <!--
