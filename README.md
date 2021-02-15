@@ -2,6 +2,8 @@
 
 [![Linkedin: adeputraprimasuhendri](https://img.shields.io/badge/-adeputraprimasuhendri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adeputraprimasuhendri/)](https://www.linkedin.com/in/adeputraprimasuhendri/)
 
+[![Linkedin: Kasehat](https://img.shields.io/badge/-Kasehat-darkgreen?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/kasehatindonesiateknologi/)](https://www.linkedin.com/company/kasehatindonesiateknologi/)
+
 <!--
 **adeputraprimasuhendri/adeputraprimasuhendri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
