@@ -1,9 +1,9 @@
 ### Hi, I'm Apps
 
 ```bash
-My Profile [![Linkedin: adeputraprimasuhendri](https://img.shields.io/badge/-Ade%20Putra%20Prima%20Suhendri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adeputraprimasuhendri/)](https://www.linkedin.com/in/adeputraprimasuhendri/)
+My Profile
 ```
-
+[![Linkedin: adeputraprimasuhendri](https://img.shields.io/badge/-Ade%20Putra%20Prima%20Suhendri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adeputraprimasuhendri/)](https://www.linkedin.com/in/adeputraprimasuhendri/)
 
 
 ```bash
