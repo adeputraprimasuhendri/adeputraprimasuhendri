@@ -10,9 +10,7 @@ Current-Project $ check this out https://www.erakomp.co.id
 Donate-BTC $ 14gnmRTSccbpff6UmhCm2BWiE3c1tnaAZb
 ```
 
-[![Linkedin: adeputraprimasuhendri](https://img.shields.io/badge/-Ade%20Putra%20Prima%20Suhendri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adeputraprimasuhendri/)](https://www.linkedin.com/in/adeputraprimasuhendri/)
-
-[![Linkedin: kasehatindonesiateknologi](https://img.shields.io/badge/-PT.%20Kasehat%20Indonesia%20Teknologi-darkgreen?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/kasehatindonesiateknologi/)](https://www.linkedin.com/company/kasehatindonesiateknologi/)
+[![Linkedin: adeputraprimasuhendri](https://img.shields.io/badge/-Ade%20Putra%20Prima%20Suhendri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adeputraprimasuhendri/)](https://www.linkedin.com/in/adeputraprimasuhendri/) [![Linkedin: kasehatindonesiateknologi](https://img.shields.io/badge/-PT.%20Kasehat%20Indonesia%20Teknologi-darkgreen?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/kasehatindonesiateknologi/)](https://www.linkedin.com/company/kasehatindonesiateknologi/)
 
 <!--
 **adeputraprimasuhendri/adeputraprimasuhendri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
