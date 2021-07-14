@@ -5,8 +5,6 @@ My-Profile $ go to https://adeputraprimasuhendri.github.io
 
 Co-Founder $ check this out https://kasehat.co.id
 
-Current-Project $ check this out https://www.erakomp.co.id
-
 Donate-BTC $ 14gnmRTSccbpff6UmhCm2BWiE3c1tnaAZb
 ```
 
